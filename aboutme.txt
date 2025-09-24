@@ -1,6 +1,0 @@
-Name: Asim El Nour 
-Date: 24/09/2025
-
-Fav Programming Language:
-PHP
-Node JS
